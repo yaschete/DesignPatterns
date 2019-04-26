@@ -1,0 +1,11 @@
+C:\Users\yasar.evcumen\Desktop\DesignPatterns\DesignPatterns.Factories\bin\Debug\netcoreapp2.1\DesignPatterns.Factories.deps.json
+C:\Users\yasar.evcumen\Desktop\DesignPatterns\DesignPatterns.Factories\bin\Debug\netcoreapp2.1\DesignPatterns.Factories.runtimeconfig.json
+C:\Users\yasar.evcumen\Desktop\DesignPatterns\DesignPatterns.Factories\bin\Debug\netcoreapp2.1\DesignPatterns.Factories.runtimeconfig.dev.json
+C:\Users\yasar.evcumen\Desktop\DesignPatterns\DesignPatterns.Factories\bin\Debug\netcoreapp2.1\DesignPatterns.Factories.dll
+C:\Users\yasar.evcumen\Desktop\DesignPatterns\DesignPatterns.Factories\bin\Debug\netcoreapp2.1\DesignPatterns.Factories.pdb
+C:\Users\yasar.evcumen\Desktop\DesignPatterns\DesignPatterns.Factories\obj\Debug\netcoreapp2.1\DesignPatterns.Factories.csprojAssemblyReference.cache
+C:\Users\yasar.evcumen\Desktop\DesignPatterns\DesignPatterns.Factories\obj\Debug\netcoreapp2.1\DesignPatterns.Factories.csproj.CoreCompileInputs.cache
+C:\Users\yasar.evcumen\Desktop\DesignPatterns\DesignPatterns.Factories\obj\Debug\netcoreapp2.1\DesignPatterns.Factories.AssemblyInfoInputs.cache
+C:\Users\yasar.evcumen\Desktop\DesignPatterns\DesignPatterns.Factories\obj\Debug\netcoreapp2.1\DesignPatterns.Factories.AssemblyInfo.cs
+C:\Users\yasar.evcumen\Desktop\DesignPatterns\DesignPatterns.Factories\obj\Debug\netcoreapp2.1\DesignPatterns.Factories.dll
+C:\Users\yasar.evcumen\Desktop\DesignPatterns\DesignPatterns.Factories\obj\Debug\netcoreapp2.1\DesignPatterns.Factories.pdb
